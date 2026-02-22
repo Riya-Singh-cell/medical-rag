@@ -20,7 +20,7 @@ class MedicalRAGBackend:
         self.embedding_dim = self.embedding_model.get_sentence_embedding_dimension()
         self.vector_store = None
         self.chunks = []
-        self.api_key = api_key  # For future use (optional)
+        self.api_key = api_key  # For future use 
 
     # =========================
     # STEP 1: Extract Text
