@@ -1,4 +1,9 @@
 # Medical Report Analyzer - Hybrid RAG + Rule-Based System
+🔗 **Live Demo:**  
+👉 https://medical-rag-acfiyjrmhjw98gy34fhuzb.streamlit.app/
+
+---
+
 
 A hybrid medical report analyzer that combines **Retrieval-Augmented Generation (RAG)** with **rule-based parameter extraction** to analyze lab test results and provide educational comparisons with reference ranges.
 
